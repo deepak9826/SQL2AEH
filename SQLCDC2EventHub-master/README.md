@@ -11,7 +11,7 @@ Instructions;
 
 (1) Download the solution files
 
-(2) Open the solution in Visual Studio (2015)
+(2) Open the solution in Visual Studio 
 
 (3) Edit the "app.config" file...
 
